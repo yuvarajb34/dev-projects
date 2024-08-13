@@ -3,9 +3,7 @@ namespace: intranet-front
 
 groups:
   - name: intranet-devs
-    role: edit
-  - name: intranet-managers
-    role: view
+    role: edit  
 
 resourceQuotas:
   pods: 8
